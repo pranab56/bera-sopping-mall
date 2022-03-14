@@ -193,10 +193,10 @@
     }
     
 
-    @media only screen and (min-width:200px) and (max-width: 600px) {
+    @media only screen and (min-width:200px) and (max-width: 915px) {
         menu{
            
-            height: 300px;
+            height: 355px;
             margin-top: 20px;
             overflow-y: hidden;
             overflow-x: hidden;
